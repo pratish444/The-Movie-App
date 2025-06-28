@@ -18,3 +18,9 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/MovieAppII.git
+## SCREENSHOTS
+
+![Main Screen](1.png)
+![2](2.png)
+![3](3.png)
+![3](4.png)
